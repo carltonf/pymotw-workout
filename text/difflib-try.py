@@ -1,4 +1,6 @@
-# difflib_data.py
+# do not name this file as `difflib` as it confuses python interpreter with the
+# standard `difflib`.
+
 
 text1 = """Lorem ipsum dolor sit amet, consectetuer adipiscing
 elit. Integer eu lacus accumsan arcu fermentum euismod. Donec
