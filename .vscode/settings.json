@@ -4,6 +4,8 @@
         "SIGUSR",
         "cpid",
         "dedented",
+        "envars",
+        "envron",
         "fname",
         "idpattern",
         "nums",
